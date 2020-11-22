@@ -1,3 +1,3 @@
 # 03 JavaScript: Password Generator
 
-# PasswordGenerator
+[main page](https://fzl666.github.io/PasswordGenerator/index.html)
