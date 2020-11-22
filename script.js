@@ -6,7 +6,7 @@ generateBtn.addEventListener("click", writePassword);
 
 function writePassword() {
  //checklist 
-  var Plength = prompt("Lenght of password:")
+  var Plength = prompt("Length of password:")
   var lowercase = confirm("At lease one lowercase")
   var number = confirm("At lease one number")
   var uppercase = confirm("At lease one uppercase")
